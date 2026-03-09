@@ -1,14 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
-
-```
-██╗    ██╗███████╗██████╗ ██████╗
-██║    ██║██╔════╝██╔══██╗╚════██╗
-██║ █╗ ██║█████╗  ██████╔╝ █████╔╝
-██║███╗██║██╔══╝  ██╔══██╗ ╚═══██╗
-╚███╔███╔╝███████╗██████╔╝██████╔╝
- ╚══╝╚══╝ ╚══════╝╚═════╝ ╚═════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+there%21+I'm+a+Web3+Explorer;DePIN+%26+Decentralized+Storage+Fan;Open+Source+Contributor" alt="Typing SVG" />
+<br/>
 
 ### 🌐 Web3 Explorer · DePIN Enthusiast · Open Source Contributor
 
