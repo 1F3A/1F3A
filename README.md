@@ -68,10 +68,6 @@ Halo! Saya seorang **Web3 enthusiast** dari Indonesia yang aktif mengeksplorasi 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1F3A&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1F3A&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=1F3A&theme=tokyonight&hide_border=true)
 
 </div>
